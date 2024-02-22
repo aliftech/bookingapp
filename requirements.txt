@@ -1,0 +1,10 @@
+fastapi==0.98.0
+uvicorn==0.22.0
+sqlalchemy==2.0.17
+alembic==1.11.1
+pymysql==1.1.0
+mysqlclient==2.2.0
+bcrypt==4.0.1 
+pydantic[email]
+PyJWT==2.7.0
+python-decouple==3.8
