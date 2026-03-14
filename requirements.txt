@@ -6,5 +6,5 @@ pymysql==1.1.1
 mysqlclient==2.2.0
 bcrypt==4.0.1 
 pydantic[email]
-PyJWT==2.7.0
+PyJWT==2.12.0
 python-decouple==3.8
